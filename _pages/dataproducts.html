@@ -5,27 +5,6 @@ permalink: /dataproducts/
 author_profile: true
 ---
 
-{% include base_path %}
-
-<!-- New style rendering if data product categories are defined -->
-{% if site.dataproducts_category %}
-  {% for category in site.dataproducts_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.dataproducts reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.dataproducts reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
+{% for post in site.dataproducts reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
