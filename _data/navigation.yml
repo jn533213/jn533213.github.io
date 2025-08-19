@@ -11,10 +11,10 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Data Products"
-    url: /dataproducts/    
+  #- title: "Data Products"
+  #  url: /dataproducts/    
 
-  - title: "Teaching"
+  - title: "Data Products"
     url: /teaching/    
     
   - title: "Portfolio"
