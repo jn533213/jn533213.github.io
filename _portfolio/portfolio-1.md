@@ -1,6 +1,6 @@
 ---
-title: "Bottom Temperature and Salinity Modes of Variability"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/eofpc_1.png'>"
+title: "As above, so below (sometimes)"
+excerpt: "Determining long-term temperature and salinity variability along the seafloor. 1<br/><img src='/images/eofpc_1.png'>"
 collection: portfolio
 ---
 
