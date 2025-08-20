@@ -13,6 +13,6 @@ Research Interests
 ------
 - Long-term climate trends and variability
 - Phsyical drivers behind local climate change impacts
-- Climate mode interactions/relationship with phsyical oceanography
+- Climate mode interactions/relationship with physical oceanography
 - Data management
 - Large-scale statistical analysis (finding a needle in the haystack)
