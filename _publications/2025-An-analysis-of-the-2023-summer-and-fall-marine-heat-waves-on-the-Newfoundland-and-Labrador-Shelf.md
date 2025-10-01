@@ -1,10 +1,10 @@
 ---
-title: "Oceanographic conditions in the Atlantic zone in 2024"
+title: "An Analysis of the 2023 Marine Heat Waves on the Newfoundland and Labrador Shelf"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-Oceanographic-conditions-in-the-Atlantic-zone-in-2024
-date: 2025-01-03
-venue: 'Can. Tech. Rep. Hydrogr. Ocean Sci.'
-paperurl: 'http://jn533213.github.io/files/2025-Oceanographic-conditions-in-the-Atlantic-zone-in-2024.pdf'
-citation: 'Galbraith, P.S., Lizotte, M., Blais, M., Bélanger, D., Casault, B., Coyne, J., Layton, C., Azetsu-Scott, K., Beazley, L., Chassé, J., Clay, S., Cyr, F., Devred, E., Fudge, A., Gabriel, C.-E., Greenan, B., Hébert, A.-J., Johnson, C.L., Maillet, G., Penney, J., Rastin, S., Ringuette, M., Shaw, J.-L., Snook, S., Starr, M. 2025. Oceanographic conditions in the Atlantic zone in 2024. Can. Tech. Rep. Hydrogr. Ocean. Sci. 400 : viii + 49 p. https://doi.org/10.60825/e92v-d229'
+permalink: /publication/2025-An-analysis-of-the-2023-summer-and-fall-marine-heat-waves-on-the-Newfoundland-and-Labrador-Shelf
+date: 2025-09-30
+venue: 'State of the Planet'
+paperurl: 'http://jn533213.github.io/files/2025-An-Analysis-of-the-2023-summer-and-fall-marine-heat-waves-on-the-Newfoundland-and-Labrador-Shelf.pdf'
+citation: 'Soontiens, N. and Andres, H. J. and Coyne, J. and Cyr, F. and Galbraith, P. S. and Penney, J. 2025. An analysis of the 2023 summer and fall marine heat waves on the Newfoundland and Labrador Shelf. State of the Planet. 6-osr9 : 12 p. 10.5194/sp-6-osr9-12-2025'
 ---
