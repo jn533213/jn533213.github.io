@@ -12,7 +12,7 @@ Climate scientist, specializing in physical oceanography with over six years of 
 Research Interests
 ------
 - Long-term climate trends and variability
-- Phsyical drivers behind local climate change impacts
+- Physical drivers behind local climate change impacts
 - Climate mode interactions/relationship with physical oceanography
 - Data management
 - Large-scale statistical analysis (finding a needle in the haystack)
