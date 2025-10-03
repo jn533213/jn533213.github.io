@@ -18,17 +18,16 @@ Work experience
 ======
 * April 2022 - Present: Northwest Atlantic Fisheries Center, Fisheries and Oceans Canada, St. John's, NL
   * Physical Scientist III
-  * Duties includes: UPDATE
   * Supervisor: Dr. Frédéric Cyr
 
 * January 2022 - April 2022: Bedford Institute of Oceanography, Fisheries and Oceans Canada, Halifax, NS
   * Physical Scientist II
-  * Duties included: UPDATE
   * Supervisor: Dr. Rachel Horwitz
 
 Skills
 ======
-* Linux and Ubuntu
+* Scientific & Statistical Analysis
+  * 6+ years experience using Python and Ubuntu. Used both daily for determining spatio-temporal data analysis methods including empirical orthogonal functions (including common variants), high-pass and low-pass filters, linear regression, and self-organizing maps. Highly skilled in using NumPy, SciPy, and matplotlib Python packages. Proficient in Jupyter notebooks.
 * Python
   * Climate data product creation and maintenance
   * Data analysis of large spatio-temporal data products and model output
